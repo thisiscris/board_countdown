@@ -8,8 +8,8 @@ body{
 h1{
   color: #fff;
   font-weight: 100;
-  font-size: 100px;
-  margin: 120px 0px 100px;
+  font-size: 60px;
+  margin: 80px 0px 80px;
 }
 
 #clockdiv{
@@ -18,7 +18,7 @@ h1{
 	display: inline-block;
 	font-weight: 100;
 	text-align: center;
-	font-size: 200px;
+	font-size: 120px;
 }
 
 #clockdiv > div{
@@ -37,5 +37,5 @@ h1{
 
 .smalltext{
 	padding-top: 5px;
-	font-size: 40px;
+	font-size: 20px;
 }
